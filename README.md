@@ -14,3 +14,8 @@ Java版本：1.8
 ```shell
 docsify serve ./docs
 ```
+
+## 本书的不足
+
+1. 代码错误：代码中的`getPriprity`应改成`getPriority`
+2. 项目代码缺失，在Github和Gitlab中均未找到，并没有完整的执行主类（笔者稍后会补充）
